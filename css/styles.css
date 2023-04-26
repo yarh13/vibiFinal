@@ -1,0 +1,63 @@
+:root{
+    --verde-claro: #80A69B;
+    --verde-oscuro: #39594A;
+    --amarillo-claro: #F2C230;
+    --amarillo-oscuro: #F2A922;
+    --cafe-claro: #A67417;
+}
+
+*{
+    font-family: 'Quicksand', sans-serif;
+}
+
+.contenedorLogo{
+    background-color: var(--verde-claro);
+    height: 851px;
+}
+
+.logo{
+    width: 200px;
+}
+
+.imagenFondo{
+    width: 500px;
+    
+}
+
+.contentimageSlider {
+    width: 300px;
+    height: 400px;
+}
+
+.carousel-item{
+    margin-top: 80px;
+}
+
+.icono{
+    width: 30px;
+}
+
+.iconodeportes{
+    width: 100px;
+    height: 120px;
+   
+}
+
+.cardIconos{
+    height: 150px;
+}
+.btn{
+    background-color: var(--amarillo-claro) !important;
+    border: none !important;
+    border-radius: 20px !important;
+    transition: background-color .5s;
+}
+
+.btn:hover{
+    background-color: var(--amarillo-oscuro) !important;
+
+}
+
+.card {
+    border: none !important; 
+}
