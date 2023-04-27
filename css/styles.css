@@ -12,7 +12,7 @@
 
 .contenedorLogo{
     background-color: var(--verde-claro);
-    height: 851px;
+    /* height: 851px; */
 }
 
 .logo{
@@ -43,6 +43,10 @@
    
 }
 
+.menu{
+    background: var(--verde-oscuro);
+}
+
 .cardIconos{
     height: 150px;
 }
@@ -60,4 +64,25 @@
 
 .card {
     border: none !important; 
+}
+
+.bannerUsuario{
+    background-color: var(--verde-oscuro);
+}
+
+.imgUser{
+    width: 60px;
+    height: 60px;
+}
+
+.ImagenPrueba{
+    height: 90px;
+}
+
+.fa-star{
+    color: var(--amarillo-claro);
+}
+
+.fa-heart{
+    color: var(--verde-claro);
 }
