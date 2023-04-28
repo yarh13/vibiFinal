@@ -76,7 +76,7 @@
 }
 
 .ImagenPrueba{
-    height: 90px;
+    height: 100px;
 }
 
 .fa-star{
@@ -85,4 +85,10 @@
 
 .fa-heart{
     color: var(--verde-claro);
+}
+
+.botonCard{
+    background: var(--verde-oscuro);
+    width: 30px;
+    
 }
