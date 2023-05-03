@@ -10,13 +10,24 @@
     font-family: 'Quicksand', sans-serif;
 }
 
+.LogoNav{
+    width: 7%;
+}
+
+.navbar{
+    background: var(--verde-claro);
+    box-shadow: 0px 0px 5px var(--verde-oscuro);
+}
+
+
+
 .contenedorLogo{
     background-color: var(--verde-claro);
-    /* height: 851px; */
+    
 }
 
 .logo{
-    width: 200px;
+    width: 35%;
 }
 
 .imagenFondo{
@@ -91,4 +102,16 @@
     background: var(--verde-oscuro);
     width: 30px;
     
+}
+
+footer{
+    background-color: var(--verde-oscuro);
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    box-shadow: 0px 0px 5px var(--verde-oscuro);
+}
+
+.copy{
+    background: var(--verde-claro);
 }
